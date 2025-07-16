@@ -10,7 +10,17 @@ This project leverages **Logistic Regression** to classify sonar signals as eith
 Below is an image describing the major steps in the workflow:
 
 ![Workflow](https://github.com/dev-a-nsh/SONAR_prediction/blob/main/SONAR_workflow.png)
-*Replace `workflow_image.png` with your actual workflow image file name.*
+
+Workflow Explanation
+Sonar Data: Collect the raw sonar dataset.
+
+Data Preprocessing: Clean and prepare the data for modeling.
+
+Train-Test Split: Divide the dataset into training and testing subsets.
+
+Logistic Regression Model: Train a logistic regression model using the training data.
+
+Prediction: Use the trained model to predict whether new inputs are Rock (R) or Mine (M).
 
 ---
 
