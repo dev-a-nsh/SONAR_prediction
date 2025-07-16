@@ -25,5 +25,9 @@ Prediction: Use the trained model to predict whether new inputs are Rock (R) or 
 
 ---
 
-## 📂 Project Structure
+## 📊 Results
+
+- **Training Accuracy**: **83%**
+- **Testing Accuracy**: **76%**
+- Logistic Regression serves as a competitive baseline for acoustic signal classification using this dataset.
 
