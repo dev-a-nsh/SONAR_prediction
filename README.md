@@ -11,7 +11,8 @@ Below is an image describing the major steps in the workflow:
 
 ![Workflow](https://github.com/dev-a-nsh/SONAR_prediction/blob/main/SONAR_workflow.png)
 
-Workflow Explanation
+**Workflow Explanation**
+
 Sonar Data: Collect the raw sonar dataset.
 
 Data Preprocessing: Clean and prepare the data for modeling.
