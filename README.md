@@ -9,7 +9,7 @@ This project leverages **Logistic Regression** to classify sonar signals as eith
 
 Below is an image describing the major steps in the workflow:
 
-![Workflow](workflow_image.png)
+![Workflow](https://github.com/dev-a-nsh/SONAR_prediction/blob/main/SONAR_workflow.png)
 *Replace `workflow_image.png` with your actual workflow image file name.*
 
 ---
